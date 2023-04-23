@@ -14,7 +14,16 @@ public class HelloWorld {
         var dynamicVar = 15;
         System.out.println("dynamicVar = " + dynamicVar);
 
+        String name = "Francisco";
+        name = "José";
+        System.out.println("name = " + name);
 
+        // Basic comment
 
+        /*
+        * Multiline comment
+        * Example
+        *
+        * */
     }
 }
