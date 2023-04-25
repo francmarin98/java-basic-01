@@ -1,4 +1,4 @@
-public class Primitives {
+public class IntPrimitives {
     public static void main(String[] args) {
         byte numberOne = 127;
         System.out.println("numberOne = " + numberOne);
