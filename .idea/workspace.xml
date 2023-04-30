@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ddc1e6-847c-40cb-8ddb-fb494083b4b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExamplesConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExamplesInmutabilidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExamplesPerformance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,27 +34,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propGUI",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringExamplesConcatenation">
+  <component name="RunManager" selected="Application.StringExamplesPerformance">
     <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
       <module name="HelloWorld" />
@@ -87,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemNumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SystemNumeric" />
+    <configuration name="StringExamplesPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExamplesPerformance" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExamplesPerformance" />
         <item itemvalue="Application.StringExamplesConcatenation" />
         <item itemvalue="Application.StringExamples" />
         <item itemvalue="Application.DetalleDeFactura" />
         <item itemvalue="Application.ConversionDeTipos" />
-        <item itemvalue="Application.SystemNumeric" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +118,8 @@
       <workItem from="1682570439990" duration="1142000" />
       <workItem from="1682784978270" duration="119000" />
       <workItem from="1682785138663" duration="4247000" />
+      <workItem from="1682789852952" duration="163000" />
+      <workItem from="1682896856616" duration="766000" />
     </task>
     <servers />
   </component>
