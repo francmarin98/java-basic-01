@@ -16,6 +16,15 @@ public class MethodString {
         System.out.println("name.substring(1) = " + name.substring(1));
         System.out.println("name.substring(0,5) = " + name.substring(0,5));
 
-
+        String trabalenguas = "trabalenguas";
+        System.out.println("trabalenguas.replace(\"a\", \"#\") = " + trabalenguas.replace("a", "#"));
+        System.out.println("trabalenguas.indexOf(\"a\") = " + trabalenguas.indexOf("a"));
+        System.out.println("trabalenguas.indexOf('x') = " + trabalenguas.indexOf('x'));
+        System.out.println("trabalenguas.lastIndexOf(\"a\") = " + trabalenguas.lastIndexOf("a"));
+        System.out.println("trabalenguas.contains(\"t\") = " + trabalenguas.contains("t"));
+        System.out.println("trabalenguas.startsWith(\"traba\") = " + trabalenguas.startsWith("traba"));
+        System.out.println("trabalenguas.endsWith(\"xyx\") = " + trabalenguas.endsWith("xyx"));
+        System.out.println("     trabalenguas   ".trim());
+        System.out.println("trabalenguas = " + trabalenguas);
     }
 }
